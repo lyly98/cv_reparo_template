@@ -1,4 +1,4 @@
-# FastAPI Project - Backend
+# CV Reparo - Backend
 
 ## Requirements
 

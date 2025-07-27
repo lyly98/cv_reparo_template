@@ -1,4 +1,4 @@
-# FastAPI Project - Development
+# CV Reparo - Development
 
 ## Docker Compose
 
